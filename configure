@@ -557,8 +557,8 @@ MAKEFLAGS=
 # Identity of this package.
 PACKAGE_NAME='haskell-platform'
 PACKAGE_TARNAME='haskell-platform'
-PACKAGE_VERSION='2011.2.0.1'
-PACKAGE_STRING='haskell-platform 2011.2.0.1'
+PACKAGE_VERSION='2011.3.0.0'
+PACKAGE_STRING='haskell-platform 2011.3.0.0'
 PACKAGE_BUGREPORT=''
 PACKAGE_URL=''
 
@@ -2073,8 +2073,8 @@ ac_configure="$SHELL $ac_aux_dir/configure"  # Please don't use this var.
 
 
 #TODO: have these numbers generated from the .cabal file
-REQUIRED_GHC_VER=7.0.3
-ACCEPTABLE_GHC_VER=7.0.2
+REQUIRED_GHC_VER=7.0.4
+ACCEPTABLE_GHC_VER=7.0.3
 
 echo '**************************************************'
 echo '*'
