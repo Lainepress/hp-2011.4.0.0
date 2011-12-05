@@ -557,8 +557,8 @@ MAKEFLAGS=
 # Identity of this package.
 PACKAGE_NAME='haskell-platform'
 PACKAGE_TARNAME='haskell-platform'
-PACKAGE_VERSION='2011.3.0.0'
-PACKAGE_STRING='haskell-platform 2011.3.0.0'
+PACKAGE_VERSION='2011.4.0.0'
+PACKAGE_STRING='haskell-platform 2011.4.0.0'
 PACKAGE_BUGREPORT=''
 PACKAGE_URL=''
 
